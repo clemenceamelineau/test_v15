@@ -13,7 +13,7 @@ This module configures your application Transfer.
         
     ],
     'data': [
-        "views/inh_sale_order_views.xml",
+        
     ],
     
     'demo': [
